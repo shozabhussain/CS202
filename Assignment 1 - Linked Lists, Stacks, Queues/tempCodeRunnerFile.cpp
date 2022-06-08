@@ -1,0 +1,1 @@
+void luckyDraw::print()
